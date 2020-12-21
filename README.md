@@ -1,4 +1,4 @@
-# smartbankofindia-
+# smart bank of india-
 
 Step 1st. Download xampp
 Step 2nd. Text editor notepad++ or Sublime
