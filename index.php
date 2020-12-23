@@ -87,7 +87,7 @@
         </div>
     </header>
 
-    <section class="my-5" id="services">
+    <section class="my-5">
         <div>
             <h3 class=" text-center">Our Services<h3>
                     <h6 class="text-center" style=" font-family: Josefin Sans; color: #660066;">YOUR TRUST IS OUR
