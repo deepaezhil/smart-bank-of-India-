@@ -154,7 +154,7 @@
                     <a href="index.php">
                         <li>Home</li>
                     </a>
-                    <a href="services.php">
+                    <a href="customerdetails.php">
                         <li>Services</li>
                     </a>
 
